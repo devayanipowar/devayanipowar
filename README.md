@@ -1,6 +1,6 @@
 ![bio](Customized_Devayani.jpg)
 
-- 🔭 I’m currently working on creating a platform to document my [progress](https://github.com/devayanipowar/Data-Science-Inventory) and [Reinforcement learning]()
+- 🔭 I’m currently working on creating a platform to document my [progress](https://github.com/devayanipowar/Data-Science-Inventory) and [Reinforcement learning](https://github.com/AshHarvey/ssa-gym)
 - 🌱 I’m currently learning alot of things!!
 - 👯 I’m looking to collaborate on anything Data.
 - 🤔 I’m looking for help with finding my niche!
