@@ -1,4 +1,3 @@
-![bio](https://github.com/devayanipowar/devayanipowar/blob/master/Customized_Devayani.gif)
 
 - 🔭 I’m currently working on creating a platform to document my [progress](https://github.com/devayanipowar/Data-Science-Inventory) and [Reinforcement learning](https://github.com/AshHarvey/ssa-gym)
 - 🌱 I’m currently learning alot of things!!
